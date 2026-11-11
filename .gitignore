@@ -1,0 +1,6 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+*.pyc
+data/raw/*.csv
+!data/raw/README.md
